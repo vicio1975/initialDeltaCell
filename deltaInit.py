@@ -4,12 +4,13 @@ Created on Mon Sep 10 16:26:55 2018
 
 @author: bmusammartanov
 """
+print("\n")
 print("#########################################################")
 print("######                                            #######")
 print("######      Base Mesh intial cell dimension       #######")
 print("######                                            #######")
 print("#########################################################")
-
+print("\n")
 xmin = float(input("- Insert Xmin [m]: "))
 xmax = float(input("- Insert Xmax [m]: "))
 ymin = float(input("- Insert Ymin [m]: "))
